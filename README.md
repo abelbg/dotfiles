@@ -1,2 +1,2 @@
 # dotfiles
- Configuration & startup files (dotfiles)
+Miscellaneous configuration & startup files/dotfiles.
